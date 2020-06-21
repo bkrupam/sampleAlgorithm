@@ -1,0 +1,22 @@
+
+.main-content{
+    text-align: center;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    
+    
+}
+.content{
+    padding-right: 57rem;
+    display: inline-block;
+}
+.left-float{
+    float: left;
+}
+.right-float{
+    float: right;
+}
+
+.questions{
+    text-align: left;
+}
